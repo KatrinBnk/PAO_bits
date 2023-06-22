@@ -30,7 +30,10 @@ bool hasBitSequence(unsigned long long number, unsigned int sequence);
 
 int countSetBits(unsigned long long num);
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 07f38bcb5a8691e0f9da8b0e3934363f1fd0a694
 bool palindrom(unsigned long long& num);
 bool miror(unsigned long long& num);
 bool clonBeats(unsigned long long& num, int p1, int p2);

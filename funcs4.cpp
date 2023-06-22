@@ -4,7 +4,10 @@ void swapBiats4(unsigned long long& num, int bite1, int bite2) {
 
     int p1{}, p2{};
     p1 = bite1 * 8;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 07f38bcb5a8691e0f9da8b0e3934363f1fd0a694
     p2 = bite2 * 8;
    
     

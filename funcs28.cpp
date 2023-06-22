@@ -8,7 +8,10 @@ bool palindrom(unsigned long long& num) {
         length++;
     }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 07f38bcb5a8691e0f9da8b0e3934363f1fd0a694
     int p1{ 0 };
     int p2{ length };
     int bit1, bit2;

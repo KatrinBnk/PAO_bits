@@ -28,4 +28,8 @@ bool compareBitSequences2(unsigned long long& num1, unsigned long long& num2, in
     int extractedBits2 = (num2 & mask) >> startBit;  // Извлекаем указанную последовательность битов из второго числа
 
     return extractedBits1 == extractedBits2;  // Сравниваем извлеченные последовательности битов
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 07f38bcb5a8691e0f9da8b0e3934363f1fd0a694

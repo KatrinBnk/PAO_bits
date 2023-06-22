@@ -13,7 +13,10 @@ void swapBits(unsigned long long int& n, int p1, int p2) {
     }
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 07f38bcb5a8691e0f9da8b0e3934363f1fd0a694
 //просто для красивого вывода
 void printBinary(unsigned long long int& n) {
     std::bitset<64> binary(n);

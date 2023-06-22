@@ -6,4 +6,8 @@ void editNumber9(unsigned long long int& number, int numBits)
     // Выполняем циклический сдвиг влево
     number = (number << numBits) | (number >> (numBitsInInt - numBits));
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 07f38bcb5a8691e0f9da8b0e3934363f1fd0a694

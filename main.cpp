@@ -9,7 +9,10 @@
 //если захочется где-то сделать двоичный вывод
 void output_num(unsigned long long num)
 {
+<<<<<<< HEAD
 
+=======
+>>>>>>> 07f38bcb5a8691e0f9da8b0e3934363f1fd0a694
     int bit = 0;
     for (int i = 7; i >= 0; i--)
     {

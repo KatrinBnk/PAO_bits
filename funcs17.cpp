@@ -20,4 +20,8 @@ void setByte17(unsigned long long& number, int byteIndex, int byte)
         // Некорректный индекс байта
         std::cout << "Некорректный индекс байта." << std::endl;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 07f38bcb5a8691e0f9da8b0e3934363f1fd0a694
